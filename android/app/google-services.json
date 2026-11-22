@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768768535129",
+    "project_id": "message-board-app-d8d34",
+    "storage_bucket": "message-board-app-d8d34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768768535129:android:a838833b938ab4203c1f48",
+        "android_client_info": {
+          "package_name": "com.example.message_board"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28fcXXDCWuYY1FE1lMEkQHMdIdDouPJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
